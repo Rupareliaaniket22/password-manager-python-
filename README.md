@@ -45,3 +45,5 @@ MyPass is a simple and secure password manager built using Python and the Tkinte
    - If the website is found, the associated email/username and password will be displayed.
 
 ## Screenshots
+<img src="https://github.com/Rupareliaaniket22/password-manager-python-/blob/main/screenshot.png"/>
+
